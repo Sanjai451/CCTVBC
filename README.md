@@ -51,8 +51,12 @@ In critical cases like murders, robberies, or societal crimes, CCTV footage ofte
 In India, over **70% of CCTV cameras** rely on centralized systems prone to tampering. By adopting this solution, we ensure justice is served without delays caused by missing or altered evidence.
 
 ## 📲 User Interface Design
-![Screenshot 2024-12-29 172012](https://github.com/user-attachments/assets/23cfe1ac-452f-4a64-88be-3c218d741d36)
-![Screenshot 2024-12-29 172001](https://github.com/user-attachments/assets/539e46c5-3cf5-4bf7-875c-086aa5bba039)
-![Screenshot 2024-12-29 171945](https://github.com/user-attachments/assets/7915f4b8-60eb-4a19-bfb2-1e977c95b7e6)
-![Screenshot 2024-12-29 172022](https://github.com/user-attachments/assets/a976b85e-aa78-4327-bc7a-8905d2434e1c)
-visit : <a href='https://www.figma.com/proto/OSh9z6tDggqnYvxoGUlQUP/Blockchain?node-id=2-2&p=f&t=lo3F2Bk9Vxor5Y0b-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A2'> link </a>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/23cfe1ac-452f-4a64-88be-3c218d741d36" alt="Screenshot 1" width="600">
+  <img src="https://github.com/user-attachments/assets/539e46c5-3cf5-4bf7-875c-086aa5bba039" alt="Screenshot 2" width="600">
+  <img src="https://github.com/user-attachments/assets/7915f4b8-60eb-4a19-bfb2-1e977c95b7e6" alt="Screenshot 3" width="600">
+  <img src="https://github.com/user-attachments/assets/a976b85e-aa78-4327-bc7a-8905d2434e1c" alt="Screenshot 4" width="600">
+</div>
+
+<br>
+visit : <a href='https://www.figma.com/proto/OSh9z6tDggqnYvxoGUlQUP/Blockchain?node-id=2-2&p=f&t=lo3F2Bk9Vxor5Y0b-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A2'>link</a>
