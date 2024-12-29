@@ -52,9 +52,9 @@ In India, over **70% of CCTV cameras** rely on centralized systems prone to tamp
 
 ## 📲 User Interface Design
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/23cfe1ac-452f-4a64-88be-3c218d741d36" alt="Screenshot 1" width="600">
-  <img src="https://github.com/user-attachments/assets/539e46c5-3cf5-4bf7-875c-086aa5bba039" alt="Screenshot 2" width="600">
   <img src="https://github.com/user-attachments/assets/7915f4b8-60eb-4a19-bfb2-1e977c95b7e6" alt="Screenshot 3" width="600">
+  <img src="https://github.com/user-attachments/assets/539e46c5-3cf5-4bf7-875c-086aa5bba039" alt="Screenshot 2" width="600">
+  <img src="https://github.com/user-attachments/assets/23cfe1ac-452f-4a64-88be-3c218d741d36" alt="Screenshot 1" width="600">
   <img src="https://github.com/user-attachments/assets/a976b85e-aa78-4327-bc7a-8905d2434e1c" alt="Screenshot 4" width="600">
 </div>
 
