@@ -25,7 +25,7 @@ In critical cases like murders, robberies, or societal crimes, CCTV footage ofte
 - User-friendly interface for accessing and managing metadata.
 - Real-time status monitoring and data insights.
 
-<img href='https://files.oaiusercontent.com/file-5WkyVGj4kcof1b8Jwkc5YR?se=2024-12-29T11%3A08%3A06Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D67c1fb2d-971e-485f-b994-77c006ffa276.webp&sig=3qqf73Eg1cpVBxXllJLGF9yt8wy3WpY3QHsU1Ov68gA%3D'></img>
+
 
 ## ⚙️ Workflow
 1. **Data Capture**: CCTV cameras record footage continuously.
@@ -50,3 +50,11 @@ In critical cases like murders, robberies, or societal crimes, CCTV footage ofte
 ## 🔍 Real-World Impact
 In India, over **70% of CCTV cameras** rely on centralized systems prone to tampering. By adopting this solution, we ensure justice is served without delays caused by missing or altered evidence.
 
+## 📲 User Interface Design
+![Screenshot 2024-12-29 172012](https://github.com/user-attachments/assets/23cfe1ac-452f-4a64-88be-3c218d741d36)
+![Screenshot 2024-12-29 172001](https://github.com/user-attachments/assets/539e46c5-3cf5-4bf7-875c-086aa5bba039)
+![Screenshot 2024-12-29 171945](https://github.com/user-attachments/assets/7915f4b8-60eb-4a19-bfb2-1e977c95b7e6)
+![Screenshot 2024-12-29 172022](https://github.com/user-attachments/assets/a976b85e-aa78-4327-bc7a-8905d2434e1c)
+visit : 
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/OSh9z6tDggqnYvxoGUlQUP/Blockchain?node-id=0-1&embed-host=share" allowfullscreen></iframe>
